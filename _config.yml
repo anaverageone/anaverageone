@@ -20,7 +20,7 @@ author: Long Ma
 ###############################################
 
 navbar-links:
-  About Me: "AboutUs"
+  About Us: "AboutUs"
   Portfolio:
     - Bread Rolls: "https://beautifuljekyll.com"
     - Cakes: "https://www.markdowntutorial.com/"
