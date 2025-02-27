@@ -3,7 +3,7 @@ layout: post
 title: Freshly Baked Organic Bread Rolls
 subtitle: – Now Available Online!
 cover-img: /assets/img/breadrolls.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/breadrolls.png
 share-img: /assets/img/path.jpg
 tags: [Fresh, Healthy, EcoFriendly]
 author: Long and Florian
