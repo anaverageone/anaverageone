@@ -6,8 +6,8 @@ subtitle: Entrepreneurship
 
 We are co-founders of Hahn's Lieblings:
 
-- Florian Hahn Production 
-- Long Ma Business Managment 
+- Florian Hahn 
+- Long Ma
 
 What else do you want to know?
 
