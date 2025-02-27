@@ -2,94 +2,44 @@
 layout: post
 title: Sweet White Bread 🥖
 subtitle: A slice of fluffy heaven
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [ComfortFood, SweetLovers ]
+gh-badge: [ComfortFood, SweetLovers]
 tags: [whitebread]
 comments: true
 mathjax: true
 author: Long Ma
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
 
-**Here is some bold text**
+**Organic Bread Rolls VS Supermarket Bread**
 
-## Here is a secondary heading
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
-Here's a table:
+## Benefits of Choosing Our Bread Rolls 
 
-| Number | Next number | Previous number |
+When it comes to bread, not all loaves (or rolls!) are created equal. If you’ve ever wondered why our Organic Bread Rolls stand out from the mass-produced options at the supermarket, here’s the scoop:
+
+| | Flo's bread | Supermarket bread|
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Organic | 100% | mixed |
+| Bio? | Yes | unclear |
+| Portion Control | custom-made | single-sized |
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+🛒 Ready to Make the Switch? 🛒
 
-It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+![Crepe](https://anaverageone.github.io/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
 
 ## Local URLs in project sites {#local-urls}
 
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
+👉 Click the link in our bio or visit [https://anaverageone.github.io/] to order your pack today.
+🚚 Fresh, organic, and delivered straight to your door – because you deserve better than supermarket bread!
 
-![Crepe](/assets/img/crepe.jpg)
+![Crepe](/assets/img/breadrolls.jpg)
 
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
 ![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
