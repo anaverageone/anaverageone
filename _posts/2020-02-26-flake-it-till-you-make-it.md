@@ -21,5 +21,4 @@ Good for You, Good for the Planet 🌍
 By choosing our organic bread rolls, you’re not just treating yourself – you’re supporting sustainable farming practices and a healthier planet. 🌱
 🛒 Order Now & Enjoy! 🛒
 👉 Click the link in our bio or visit [https://anaverageone.github.io/] to grab your pack today.
-# Available for delivery straight to your door – because fresh, organic goodness should be hassle-free!
 Tag a friend who loves bread as much as you do! 🥖💛
