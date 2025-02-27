@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Bake Time
+title: Hahn's Lieblings
 
 # Your name to show in the footer
 author: Long Ma
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/crepe.jpg.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,14 +50,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "florianhahn1997@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
+  whatsapp: (+49)015225169042
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -93,6 +93,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
+  whatsapp: true
   twitter: true
   facebook: true
   linkedin: true
@@ -100,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://anaverageone.github.io/.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
