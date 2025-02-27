@@ -35,6 +35,3 @@ When it comes to bread, not all loaves (or rolls!) are created equal. If you’v
 🚚 Fresh, organic, and delivered straight to your door – because you deserve better than supermarket bread!
 
 ![Crepe](/assets/img/breadrolls.jpg)
-
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
