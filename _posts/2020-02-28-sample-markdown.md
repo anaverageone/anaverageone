@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Flo's Bread
-subtitle: Flo's VS Supermarket Bread
-gh-badge: [ComfortFood, ]
-tags: [whitebread]
+subtitle: Your safe choice
+tags: [organic, bio, custom-made]
 comments: true
 mathjax: true
 author: Long Ma
 ---
 
 
-## Why Choose Flo's ?
+## Why Flo's ? Flo's VS Supermarket Bread
 When it comes to bread, not all loaves (or rolls!) are created equal. If you’ve ever wondered why our Organic Bread Rolls stand out from the mass-produced options at the supermarket, here’s the scoop:
 
 | | Flo's bread | Supermarket bread|
@@ -22,8 +21,6 @@ When it comes to bread, not all loaves (or rolls!) are created equal. If you’v
 
 
 🛒 Ready to Make the Switch? 🛒
-
-
 
 ![Crepe](https://anaverageone.github.io/assets/img/whitebread.jpg){: .mx-auto.d-block :}
 
