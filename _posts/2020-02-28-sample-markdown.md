@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sweet White Bread 🥖
-subtitle: A slice of fluffy heaven
-gh-badge: [ComfortFood, SweetLovers]
+title: Flo's Bread
+subtitle: Flo's VS Supermarket Bread
+gh-badge: [ComfortFood, ]
 tags: [whitebread]
 comments: true
 mathjax: true
@@ -10,12 +10,7 @@ author: Long Ma
 ---
 
 
-**Organic Bread Rolls VS Supermarket Bread**
-
-
-
-## Benefits of Choosing Our Bread Rolls 
-
+## Why Choose Flo's ?
 When it comes to bread, not all loaves (or rolls!) are created equal. If you’ve ever wondered why our Organic Bread Rolls stand out from the mass-produced options at the supermarket, here’s the scoop:
 
 | | Flo's bread | Supermarket bread|
