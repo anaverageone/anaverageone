@@ -30,7 +30,7 @@ When it comes to bread, not all loaves (or rolls!) are created equal. If you’v
 
 
 
-![Crepe](https://anaverageone.github.io/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://anaverageone.github.io/assets/img/whitebread.jpg){: .mx-auto.d-block :}
 
 
 
