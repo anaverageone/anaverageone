@@ -11,7 +11,7 @@ author: Long and Florian
 
 Hey bread lovers! We’re thrilled to announce that our Organic Bread Rolls are now just a click away! 🎉 Whether you’re hosting a dinner party, packing a picnic, or simply craving something wholesome, these rolls are the perfect addition to your table.
 
-✨ Why Choose Our Organic Bread Rolls? ✨
+✨ Why Choose Our Organic Bread Rolls? ✨\
 ✅ Made with 100% organic, sustainably sourced ingredients.\
 ✅ Free from artificial additives, preservatives, and GMOs.\
 ✅ Soft, fluffy, and baked with love for that homemade taste.\
