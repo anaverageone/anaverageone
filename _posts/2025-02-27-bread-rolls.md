@@ -4,7 +4,7 @@ title: Freshly Baked Organic Bread Rolls
 subtitle: – Now Available Online!
 cover-img: /assets/img/breadrolls.jpg
 thumbnail-img: /assets/img/breadrolls.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/breadrolls.jpg
 tags: [Fresh, Healthy, EcoFriendly]
 author: Long and Florian
 ---
@@ -15,7 +15,8 @@ Hey bread lovers! We’re thrilled to announce that our Organic Bread Rolls are 
 ✅ Made with 100% organic, sustainably sourced ingredients.\
 ✅ Free from artificial additives, preservatives, and GMOs.\
 ✅ Soft, fluffy, and baked with love for that homemade taste.\
-✅ Perfect for sandwiches, soups, or just slathering with your favorite spread.\
+✅ Perfect for sandwiches, soups, or just slathering with your favorite spread.
+
 
 Good for You, Good for the Planet 🌍
 By choosing our organic bread rolls, you’re not just treating yourself – you’re supporting sustainable farming practices and a healthier planet. 🌱
