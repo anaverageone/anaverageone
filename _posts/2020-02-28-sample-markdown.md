@@ -26,9 +26,8 @@ When it comes to bread, not all loaves (or rolls!) are created equal. If you’v
 
 
 
-## Local URLs in project sites {#local-urls}
+## 👉 Click the link in our bio or visit [https://anaverageone.github.io/] to order your pack today.
 
-👉 Click the link in our bio or visit [https://anaverageone.github.io/] to order your pack today.
 🚚 Fresh, organic, and delivered straight to your door – because you deserve better than supermarket bread!
 
 ![Crepe](/assets/img/breadrolls.jpg)
