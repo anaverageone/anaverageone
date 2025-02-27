@@ -15,7 +15,7 @@ When it comes to bread, not all loaves (or rolls!) are created equal. If you’v
 | | Flo's bread | Supermarket bread|
 | :------ |:--- | :--- |
 | Organic | 100% | mixed |
-| Bio? | Yes | unclear |
+| Bio | Yes | unclear |
 | Portion Control | custom-made | single-sized |
 
 
